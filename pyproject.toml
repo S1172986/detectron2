@@ -1,0 +1,4 @@
+[build-system]
+requires = ["poetry-core", "setuptools", "wheel", "torch"]
+build-backend = "setuptools.build_meta:__legacy__"
+
